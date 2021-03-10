@@ -8,6 +8,8 @@ contract PetAdoption {
         require(0 <= petId && petId <= 15);
 
         owners[petId] = msg.sender;
+
+        _;
     }
 
     function getOwners() public view returns (address[16] memory) {
