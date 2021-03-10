@@ -1,1 +1,3 @@
 > truffle compile
+
+> truffle migrate
