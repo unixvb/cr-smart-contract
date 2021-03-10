@@ -1,0 +1,21 @@
+{
+  "name": "cr-smart-contract",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "repository": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "test": "truffle test"
+  },
+  "author": "Andrii Ivaniv",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.4.1"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/unixvb/cr-smart-contract/issues"
+  },
+  "homepage": "https://github.com/unixvb/cr-smart-contract#readme"
+}

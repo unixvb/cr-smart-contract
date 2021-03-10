@@ -1,3 +1,3 @@
-> truffle compile
+Pre-requirements:
 
-> truffle migrate
+> npm install -g truffle
